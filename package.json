@@ -1,19 +1,19 @@
 {
-    "name": "fish",
+    "name": "kary-fish",
     "displayName": "Fish shell",
     "description": "Fish shell language support",
     "icon": "fish_icon.svg",
     "version": "0.0.4",
-    "homepage": "https://github.com/TeddyDD/fish-vscode",
+    "homepage": "https://github.com/pmkary/fish-vscode",
     "repository": {
         "type": "git",
-        "url": "https://github.com/TeddyDD/fish-vscode.git"
+        "url": "https://github.com/pmkary/fish-vscode.git"
     },
     "bugs": {
-        "email": "vision360.daniel@gmail.com",
-        "url": "https://github.com/TeddyDD/fish-vscode/issues"
+        "email": "pouya@kary.us",
+        "url": "https://github.com/pmkary/fish-vscode/issues"
     },
-    "publisher": "TeddyDD",
+    "publisher": "karyfoundation",
     "galleryBanner": {
         "color": "#312C3B",
         "theme": "dark"
